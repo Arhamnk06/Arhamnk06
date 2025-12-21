@@ -3,7 +3,7 @@
 ### **2nd-Year Computer Science Student @ Toronto Metropolitan University**
 **Former Cloud & AI Support Intern | Full-Stack Developer | AI Enthusiast**
 
-I am a Computer Science student at TMU with a background in **Cloud & AI Support. I specialize in building full-stack applications and integrating AI models to solve practical problems.
+I am a Computer Science student at TMU with a background in Cloud & AI Support. I specialize in building full-stack applications and integrating AI models to solve practical problems.
 
 ---
 
