@@ -36,10 +36,10 @@ An interactive Java Swing application combining a GUI with custom 2D drawings an
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, Java, C/C++, JavaScript, SQL, HTML/CSS, Lisp [cite: 32] |
-| **Frameworks** | [cite_start]React, Node.js, Numpy, Pandas, FastAPI, Express [cite: 33] |
-| **Cloud & AI** | [cite_start]AWS, Azure, LLM Integration (Ollama), Machine Learning Pipelines [cite: 9] |
-| **Tools & DB** | [cite_start]Docker, Git, Linux/Bash, PostgreSQL, SQLite, Oracle SQL Developer [cite: 34] |
+| **Languages** | Python, Java, C/C++, JavaScript, SQL, HTML/CSS, Lisp  |
+| **Frameworks** | React, Node.js, Numpy, Pandas, FastAPI, Express  |
+| **Cloud & AI** | AWS, Azure, LLM Integration (Ollama), Machine Learning Pipelines  |
+| **Tools & DB** | Docker, Git, Linux/Bash, PostgreSQL, SQLite, Oracle SQL Developer  |
 
 ---
 
@@ -71,6 +71,3 @@ An interactive Java Swing application combining a GUI with custom 2D drawings an
 - 💼 LinkedIn: https://www.linkedin.com/in/arhamnkhan06/
 
 ---
-
-## 🌐 Live Demo
-**FitTrack – Fitness Tracking Application**
