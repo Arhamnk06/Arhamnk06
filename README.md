@@ -15,16 +15,21 @@ A digital fitness companion that allows users to log workouts, track health metr
 * **Impact:** Actively used by **20+ real users**; features a shared schema for frontend/backend validation via Zod.
 * **Key Feature:** Dynamic progress charts using **Recharts** and a responsive dashboard with light/dark mode.
 
-### 🤖 [API-LLM - Local Model Gateway](https://github.com/your-username/API-LLM)
+### 🤖 [API-LLM - Local Model Gateway](https://github.com/Arhamnk06/API-LLM)
 A FastAPI backend designed to expose locally hosted language models through a structured API.
 * **Tech Stack:** Python, FastAPI, SQLite, and Ollama.
 * **Key Feature:** Implements **API key authentication** and a **credit-based usage tracking** system for models like Gemma, LLaMA, and Mistral.
 
-### 📊 [WordCounter-GUI](https://github.com/your-username/WordCounter-GUI)
+### 📊 [WordCounter-GUI](https://github.com/Arhamnk06/WordCounter-GUI)
 An interactive Java Swing application for text analysis with real-time visual feedback.
 * **Tech Stack:** Java, Java Swing, and AWT (2D Graphics).
 * **Key Feature:** Features a custom-drawn **StatsDisplayPanel** that renders a bar chart reacting to mouse-hover events.
 
+### 🎨 [Interactive-Swing-Canvas](https://github.com/Arhamnk06/Interactive-Swing-Canvas)
+An interactive Java Swing application combining a GUI with custom 2D drawings and multiple event listeners.
+* **Tech Stack:** Java (Swing, AWT).
+* **Core Logic:** Implements a custom `JPanel` that overrides `paintComponent` to render dynamic shapes that react to user input.
+* **Interactivity:** Features `ActionListeners` for GUI controls (buttons/radios) and `Mouse/Keyboard Listeners` for direct manipulation of the drawing canvas.
 ---
 
 ## 🛠️ Technical Toolkit
@@ -40,28 +45,32 @@ An interactive Java Swing application for text analysis with real-time visual fe
 
 ## 💼 Experience & Leadership
 
-* [cite_start]**Cloud & AI Support Intern @ Sovnex** [cite: 7, 8]
-    * [cite_start]Supported cloud-based AI projects on **AWS and Azure**, improving project uptime and reliability by **15%**[cite: 9].
-    * [cite_start]Resolved technical issues within SLA timelines, ensuring smooth integration between APIs and cloud environments[cite: 10].
-    * [cite_start]Developed internal documentation and dashboards to track model performance, increasing team efficiency by **20%**[cite: 11].
-* [cite_start]**Street Team Lead @ TMU Undergraduate Student Union** [cite: 12, 13]
-    * [cite_start]Managed a team of 20+ volunteers to improve student engagement and event turnout by **35%**[cite: 14].
-    * [cite_start]Led social media growth from 8,000 to **20,000+ followers** on Instagram[cite: 16].
-* [cite_start]**Software Engineer Intern @ Yousif Jiza Al-Rasheedi Establishment** [cite: 17, 18]
-    * [cite_start]Optimized procurement records and supplier communications, reducing material delays by **15%**[cite: 21].
+### Cloud & AI Support Intern — Sovnex
+- Supported cloud-based AI projects on AWS and Azure, improving project uptime and reliability by 15%.
+- Resolved technical issues within SLA timelines, ensuring smooth integration between APIs and cloud environments.
+- Developed internal documentation and dashboards to track model performance, increasing team efficiency by 20%.
+
+### Street Team Lead — TMU Undergraduate Student Union
+- Managed a team of 20+ volunteers to improve student engagement and event turnout by 35%.
+- Led social media growth from 8,000 to 20,000+ followers on Instagram.
+
+### Software Engineer Intern — Yousif Jiza Al-Rasheedi Establishment
+- Optimized procurement records and supplier communications, reducing material delays by 15%.
 
 ---
 
 ## 🏅 Certifications
-* [cite_start]**IBM** AI Developer Specialization (2025) [cite: 36]
-* [cite_start]**Google** Data Analytics Specialization (2025) [cite: 37]
-* [cite_start]**MITx** Introduction to Computer Science and Programming using Python (2023) [cite: 38]
+- IBM AI Developer Specialization (2025)
+- Google Data Analytics Specialization (2025)
+- MITx Introduction to Computer Science and Programming Using Python (2023)
 
 ---
 
 ## 📫 Connect with Me
-* [cite_start]📧 **Email:** [arham.n.khan@torontomu.ca](mailto:arham.n.khan@torontomu.ca) [cite: 3]
-* [cite_start]💼 **LinkedIn:** [basith-abdul-](https://www.linkedin.com/in/basith-abdul-/) [cite: 3]
-* 🌐 **Live Demo:** [FitTrack Application](https://fitness-pal--ArhamNauman.replit.app)
+- 📧 Email: arham.n.khan@torontomu.ca  
+- 💼 LinkedIn: https://www.linkedin.com/in/arhamnkhan06/
 
 ---
+
+## 🌐 Live Demo
+**FitTrack – Fitness Tracking Application**
