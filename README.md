@@ -1,4 +1,3 @@
-# Arham-khan
 # 👋 Hi, I'm Arham Khan 
 ### **2nd-Year Computer Science Student @ Toronto Metropolitan University**
 **Former Cloud & AI Support Intern | Full-Stack Developer | AI Enthusiast**
